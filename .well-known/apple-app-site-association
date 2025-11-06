@@ -1,1 +1,11 @@
-<meta http-equiv="refresh" content="0; url=apple-app-site-association.json">
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "SRM3XRAN3S.com.williamforkes.Drift",
+        "paths": ["/focus"]
+      }
+    ]
+  }
+}
